@@ -1,0 +1,19 @@
+{
+  "name": "levee-basic-example",
+  "version": "0.0.1",
+  "description": "Trying out the basic example included in the Levee docs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbprice/levee-basic-example.git"
+  },
+  "author": "Blaine Price",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wbprice/levee-basic-example/issues"
+  },
+  "homepage": "https://github.com/wbprice/levee-basic-example#readme"
+}
